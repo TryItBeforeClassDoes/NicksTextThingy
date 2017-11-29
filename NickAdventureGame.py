@@ -225,3 +225,5 @@ class inventory(object):
             
 inv = inventory()
 inv.add_item(Item('Sword', 1))'''
+
+'''additional lines are fun to add to blocks of code.'''
